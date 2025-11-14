@@ -1,0 +1,11 @@
+product_id,product_name,category,cost_price,supplier_id
+101,Laptop,Computers,700,1
+102,Mouse,Accessories,20,1
+103,Keyboard,Accessories,45,1
+104,Monitor,Monitors,150,4
+105,Webcam,Accessories,50,5
+106,Headphones,Audio,60,2
+107,USB Hub,Accessories,15,4
+108,Docking Station,Accessories,120,2
+109,Smartphone,Mobile,500,4
+110,Tablet,Mobile,350,4
